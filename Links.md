@@ -3,7 +3,7 @@ A collection of my go-to resources across a variety of topics.
 
 ## (Folks/Blogs I follow)
 
---**[Andreessen Horowitz](https://a16z.com/about/) **
+- **[Andreessen Horowitz](https://a16z.com/about/)**
 - **[A16z Future] (https://future.a16z.com/)**
 - **[Stratechery](https://stratechery.com/)
 - **[Andrew Chen.](https://t.co/G6Zx3CcudT)**
