@@ -1,21 +1,19 @@
 A collection of my go-to resources across a variety of topics.
 
 
-## (Folks I follow)
+## (Folks/Blogs I follow)
 
-- **Andreessen Horowitz - [Main Blog] (https://a16z.com/about/) and [New Future Portal] (https://future.a16z.com/)
-- **Ben Thompson - [Stratechery](https://stratechery.com/)
-- **Andrew Chen. [https://andrewchen.co/](https://t.co/G6Zx3CcudT)**
-- **Julie Zhuo. [https://medium.com/the-year-of-the-looking-glass/](https://t.co/8ubuAHkKOI)**
-- **Tomasz Tunguz. [http://tomtunguz.com/](http://tomtunguz.com/)**
-- **Steve Blank. [https://steveblank.com/](https://steveblank.com/)**
-- **Derek Sivers. [https://sivers.org/](https://sivers.org/)**
-- **Seth Godin. [https://www.sethgodin.com/](https://www.sethgodin.com/)**
-- **Shreyas Doshi. [https://twitter.com/shreyas](https://twitter.com/shreyas)**
-- **Brian Balfour. [hhttps://brianbalfour.com/](https://brianbalfour.com/)**
-
-##**Blogs**
-
+--**[Andreessen Horowitz](https://a16z.com/about/) **
+- **[A16z Future] (https://future.a16z.com/)**
+- **[Stratechery](https://stratechery.com/)
+- **[Andrew Chen.](https://t.co/G6Zx3CcudT)**
+- **[Julie Zhuo.](https://t.co/8ubuAHkKOI)**
+- **[Tomasz Tunguz.](http://tomtunguz.com/)**
+- **[Steve Blank.](https://steveblank.com/)**
+- **[Derek Sivers.](https://sivers.org/)**
+- **[Seth Godin.](https://www.sethgodin.com/)**
+- **[Shreyas Doshi.] (https://twitter.com/shreyas)**
+- **[Brian Balfour](https://brianbalfour.com/)**
 - **[HBR](https://hbr.org/)**
 - **[First Round](http://firstround.com/review/)**
 - **[YC](https://blog.ycombinator.com/)**
